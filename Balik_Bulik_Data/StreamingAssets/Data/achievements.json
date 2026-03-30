@@ -1,0 +1,16 @@
+{
+  "achievements": [
+    { "key": "Aura", "displayName": "The Champion", "unlocked": false },
+    { "key": "Polkadots", "displayName": "First Win, First Loss", "unlocked": false },
+    { "key": "Wind", "displayName": "Death by a Thousand Pecks", "unlocked": false },
+    { "key": "Earth", "displayName": "Heavy Impact", "unlocked": false },
+    { "key": "Lightning", "displayName": "Static Speedrun", "unlocked": false },
+    { "key": "Smoke", "displayName": "Flawless Victory", "unlocked": false },
+    { "key": "Absorb", "displayName": "Second Chance", "unlocked": false },
+    { "key": "Ghost", "displayName": "Glutton for Punishment", "unlocked": false },
+    { "key": "Silver", "displayName": "Money Maker", "unlocked": false },
+    { "key": "Gold", "displayName": "Golden Goose", "unlocked": false },
+    { "key": "Glow", "displayName": "Full Roster", "unlocked": false },
+    { "key": "Special", "displayName": "Completionist", "unlocked": false }
+  ]
+}
